@@ -1,0 +1,86 @@
+{
+    "girls":[
+        {
+            "id": 0,
+            "name": "FENDER HSS BLK",
+            "img": "./girls/girl_1.jpg",
+            "price": 136,
+            "count":1,
+            "category": "T-shirt"
+        },
+        {
+            "id": 1,
+            "name": "FENDER AFFINITY",
+            "img": "./girls/girl_2.jpg",
+            "price": 239,
+            "count":1,
+            "category": "swimsuit"
+            
+        },
+        {
+            "id": 2,
+            "name": "IBANEZ FLAT",
+            "img": "./girls/girl_3.jpg",
+            "price": 216,
+            "count":1,
+            "category": "sweater"
+        },
+        {
+            "id": 3,
+            "name": "EPIPHONE EBONY",
+            "img": "./girls/girl_4.jpg",
+            "price": 199,
+            "count":1,
+            "category": "swimsuit"
+        },
+        {
+            "id": 4,
+            "name": "FENDER AWT",
+            "img": "./girls/girl_5.jpg",
+            "price": 14500,
+            "count":1,
+            "category": "swimsuit"
+        },
+        {
+            "id": 5,
+            "name": "FENDER BLK",
+            "img": "./girls/girl_6.jpg",
+            "price": 146,
+            "count":1,
+            "category": "swimsuit"
+        },
+        {
+            "id": 6,
+            "name": "FENDER AWT",
+            "img": "./girls/girl_7.jpg",
+            "price": 136,
+            "count":1,
+            "category": "T-shirt"
+        },
+        {
+            "id": 7,
+            "name": "JACKSON BLACK",
+            "img": "./girls/girl_8.jpg",
+            "price": 287,
+            "count":1,
+            "category": "T-shirt"
+        },
+        {
+            "id": 8,
+            "name": "JACKSON WHITE",
+            "img": "./girls/girl_9.jpg",
+            "price": 181,
+            "count":1,
+            "category": "sweater"
+        },
+        {
+            "id": 9,
+            "name": "YAMAHA WH",
+            "img": "./girls/girl_10.jpg",
+            "price": 159,
+            "count":1,
+            "category": "sweater"
+        }
+    ]
+}
+

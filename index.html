@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Guitar Shop</title>
+	<link rel="icon" type="image/png" href="img/favicon.png">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+	<div id="header"></div>
+
+	<div id="content"></div>
+
+  <div id="bar">
+    <div id='bar__search'></div>
+		<div id="bar__select"></div>
+	</div>
+
+	<div id="cart"></div>
+	<div id="shopping" class="remove"></div>
+	<div id="spinner"></div>
+	<div id="error"></div>
+
+	<!-- Constants and Utils -->
+	<script src="constants/root.js"></script>
+	<script src="utils/localStorageUtil.js"></script>
+
+	<!-- Header -->
+	<script src="components/Header/Header.js"></script>
+
+	<!-- Search and Select -->
+	<script src="components/Search/Search.js"></script>
+	<script src="components/Select/Select.js"></script>
+
+	<!-- cart -->
+	<script src="components/Products/Products.js"></script>
+	<link rel="stylesheet" href="components/Products/Products.css">
+ 
+	<!-- Shopping -->
+	<script src="components/Shopping/Shopping.js"></script>
+	<link rel="stylesheet" href="components/Shopping/Shopping.css">
+
+  <!-- Spinner -->
+  <script src="components/Spinner/Spinner.js"></script>
+  <link rel="stylesheet" href="components/Spinner/Spinner.css">
+
+  <!-- Router -->
+	<script src="/js/url-router.js"></script>
+
+  <!-- Error -->
+  <script src="components/Error/Error.js"></script>
+  <link rel="stylesheet" href="components/Error/Error.css">
+
+	<script src="index.js"></script>
+
+</body>
+</html>
